@@ -4,12 +4,3 @@
 
 layout: home
 ---
-
-# Work experience
-Human beeing.
-
-# Education
-Edvin Sladic. 
-
-# Misc
-Student and pilot student.

@@ -21,11 +21,12 @@
 title: This is my personal site
 email: edvin@sladic.se
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website. It has no pupouse at all. If you found you'r way where and want to sponsor me with a copy of X-Plane 11, then contact me.
+  Edvin Sladic. Student, programmer, football player, soon to be computer science engineer & soon to be pilot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sladic.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: edvinsladic
 github_username:  edvinnn
+linkedin_username: edvin-sladic
 
 # Build settings
 theme: minima
