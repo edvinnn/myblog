@@ -6,8 +6,18 @@ permalink: /about/
 
 ```json
 {
-  "firstName":  "Edvin",
-  "lastName":   "Sladic",
-  "age":        24,
+  "general": {
+    "firstName":  "Edvin",
+    "lastName":   "Sladic",
+    "age":        24,
+    "birthPlace":  "Helsingborg",
+    "currently":   "Luleå"
+  },
+  "interests": [
+    "f1",
+    "sports",
+    "aviation",
+    "beer"
+  ]
 }
 ```
