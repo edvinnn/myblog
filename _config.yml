@@ -20,13 +20,15 @@
 
 title: This is my personal site
 email: edvin@sladic.se
+author: Edvin Sladic
 description: >- # this means to ignore newlines until "baseurl:"
-  Edvin Sladic. Student, programmer, football player, soon to be computer science engineer & soon to be pilot.
+  Edvin Sladic - Student, programmer, football player, soon to be computer science engineer & soon to be pilot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sladic.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: edvinsladic
 github_username:  edvinnn
 linkedin_username: edvin-sladic
+instagram_username: upsettingedvin
 
 # Build settings
 theme: minima

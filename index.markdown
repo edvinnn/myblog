@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Until further notice follow me on Twitter.
