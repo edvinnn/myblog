@@ -6,33 +6,37 @@
     <!-- <h2 class="footer-heading">Edvin Sladic</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col">
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              Business inquiries
+            Business inquiries
             {%- else -%}
-              {{ site.title | escape }}
+            {{ site.title | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col">
         {%- include social-primary.html -%}
       </div>
 
-      <div class="footer-col footer-col-2">
+      <div class="footer-col">
         {%- include social-extended.html -%}
       </div>
+    </div>
 
-      <div class="footer-col footer-col-4">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col">
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
+
+  </div>
 
   </div>
 
